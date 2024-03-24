@@ -57,3 +57,11 @@ This Python project combines two primary scripts, `Training.py` and `Testing.py`
 - Images used for testing should be grayscale and resized to 28x28 pixels.
 - The CSV conversion script assumes 'trainData.csv' is present and outputs the resulting image as 'output.png'.
 - Customize the scripts to suit your specific use case or dataset.
+
+## Contributions
+
+Contributions to this project are welcome! If you have improvements or bug fixes, please feel free to fork the repository and submit a pull request. Your contributions can help make this project even better.
+
+## License
+
+This project is open-sourced under the MIT License. See the LICENSE file for more information.
